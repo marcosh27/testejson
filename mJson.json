@@ -1,0 +1,109 @@
+
+{
+  "previous": "Some URL for previous page",
+  "next": "Some URL for next page",
+  "results": [
+    
+
+
+    {
+      "maqse1": "12",
+      "maqse2": "30",
+      "maqse3": "22",
+      "maqse4": "45",
+      "maqse5": "32",
+      "maqse6":"08",
+      "hora":"FORA DE CICLO"
+    },
+    {
+      "maqse1": "12",
+      "maqse2": "30",
+      "maqse3": "22",
+      "maqse4": "45",
+      "maqse5": "32",
+      "maqse6":"08",
+      "hora":"AGUARDANDO TÉCNICO"
+    },
+    {
+      "maqse1": "12",
+      "maqse2": "30",
+      "maqse3": "22",
+      "maqse4": "45",
+      "maqse5": "32",
+      "maqse6":"08",
+      "hora":"REINICIO(DOM/FER)"
+    },
+    {
+      "maqse1": "12",
+      "maqse2": "30",
+      "maqse3": "22",
+      "maqse4": "45",
+      "maqse5": "32",
+      "maqse6":"08",
+      "hora":"PARADA-MANUTENCAO"
+    },
+    {
+      "maqse1": "12",
+      "maqse2": "30",
+      "maqse3": "22",
+      "maqse4": "45",
+      "maqse5": "32",
+      "maqse6":"08",
+      "hora":"LIGACAO DE PERIFERICOS"
+    },
+    {
+      "maqse1": "12",
+      "maqse2": "30",
+      "maqse3": "22",
+      "maqse4": "45",
+      "maqse5": "32",
+      "maqse6":"08",
+      "hora":"PARADA-FERRAMENTARIA"
+    },
+    {
+      "maqse1": "12",
+      "maqse2": "30",
+      "maqse3": "22",
+      "maqse4": "45",
+      "maqse5": "32",
+      "maqse6":"08",
+      "hora":"TROCA DE MOLDE"
+    },
+    {
+      "maqse1": "12",
+      "maqse2": "30",
+      "maqse3": "22",
+      "maqse4": "45",
+      "maqse5": "32",
+      "maqse6":"08",
+      "hora":"PARADAS M.PRIMA"
+    },
+    {
+      "maqse1": "12",
+      "maqse2": "30",
+      "maqse3": "22",
+      "maqse4": "45",
+      "maqse5": "32",
+      "maqse6":"08",
+      "hora":"PARADA-OUTROS MOTIVOS"
+    },
+    {
+      "maqse1": "12",
+      "maqse2": "30",
+      "maqse3": "22",
+      "maqse4": "45",
+      "maqse5": "32",
+      "maqse6":"08",
+      "hora":"ALARME DE REFUGO"
+    },
+    {
+      "maqse1": "12",
+      "maqse2": "30",
+      "maqse3": "22",
+      "maqse4": "45",
+      "maqse5": "32",
+      "maqse6":"08",
+      "hora":"PARADA-SP"
+    }
+  ]
+}
